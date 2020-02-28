@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './thinking-react/functional-component/App';
+import App from './thinking-in-react/functional-components/App';
 
 
 const PRODUCTS = [
